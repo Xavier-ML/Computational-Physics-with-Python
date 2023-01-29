@@ -4,7 +4,9 @@
   ### Parte1.Python basico
     * Bienvenido al python
     * interface de python
-    * 
+    * varibles y tipos
+    * variables de asignación
+    * operación con variables
 ## libros
 * 
 
