@@ -1,7 +1,7 @@
 # Computational-Physics-with-Python
 
 ## Syllabus
-  ### 1.Python basico
+  ### Parte1.Python basico
 
 ## libros
 * 
