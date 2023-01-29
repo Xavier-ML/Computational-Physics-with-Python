@@ -2,7 +2,9 @@
 
 ## Syllabus
   ### Parte1.Python basico
-
+    * Bienvenido al python
+    * interface de python
+    * 
 ## libros
 * 
 
