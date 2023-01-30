@@ -2,9 +2,7 @@
 
 ## Syllabus
   ### Parte1
-  
-    #### Python basico
-    
+  #### Python basico
     * Bienvenido al python
     * interface de python
     * varibles y tipos
