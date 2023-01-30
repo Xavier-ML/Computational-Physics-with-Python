@@ -3,11 +3,11 @@
 ## Syllabus
   ### Parte1
   #### Python basico
-    * Bienvenido al python
-    * interface de python
-    * varibles y tipos
-    * variables de asignación
-    * operación con variables
+    1.1 Bienvenido al python
+    1.2 interface de python
+    1.3 varibles y tipos
+    1.4 variables de asignación
+    1.5 operación con variables
 ## libros
 * 
 
