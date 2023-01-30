@@ -1,8 +1,10 @@
 # Computational-Physics-with-Python
 
 ## Syllabus
-  ### Parte1.
-    ####Python basico
+  ### Parte1
+  
+    #### Python basico
+    
     * Bienvenido al python
     * interface de python
     * varibles y tipos
