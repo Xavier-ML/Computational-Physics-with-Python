@@ -1,7 +1,7 @@
 # Computational-Physics-with-Python
 
 ## Syllabus
-  ### Parte1
+ ### Parte1
   #### Python basico
     1.1 Bienvenido al python
     1.2 interface de python
@@ -34,7 +34,9 @@
     1.26 aritmetica de 2D Numpy array
     1.27 subconjuntos de 2D Numpy arrays
     1.28 Numpy: estadisticas basicas
-    
+ ### Python intermedio
+  #### Matplotlib
+    1.29 
 ## libros
 * 
 
